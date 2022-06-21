@@ -17,7 +17,7 @@ function About() {
                 </div>
 
                 <div className="about-me-right">
-                    <img src='/images/about-profile.jpg' atl='About Me' className='about-me-profile'/>
+                    <img src='./images/about-profile.jpg' atl='About Me' className='about-me-profile'/>
                 </div>
             </div>
         </div>

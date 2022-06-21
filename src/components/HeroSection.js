@@ -36,7 +36,7 @@ function HeroSection() {
         </div> */}
         <div className='hero-column-right'>
             <div className="hero-card">
-                <img src='/images/img-profile.png' alt='Profile' className='hero-profile'/>
+                <img src='./images/img-profile.png' alt='Profile' className='hero-profile'/>
             </div>
         </div>
     </div>
