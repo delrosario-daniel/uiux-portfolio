@@ -116,3 +116,7 @@
       margin-bottom: 2rem;
     }
   }
+
+  .srms-web-1 {
+    background-image: url('/public/images/SRMSWeb/srms-web-1.png');
+  }
