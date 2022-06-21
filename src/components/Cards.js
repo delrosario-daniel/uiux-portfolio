@@ -11,7 +11,8 @@ function Cards() {
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem 
-                        src='/public/images/SRMSWeb/srms-web-1.png'
+                        // src='/public/images/SRMSWeb/srms-web-1.png'
+                        src='https://github.com/delrosario-daniel/design-portfolio/tree/master/public/images/SRMSWebsrms-web-1.png'
                         text='Dr. Arcadio National High School: School Resource Management System (SRMS)'
                         label='Web Application'
                         path='/srms-web'
