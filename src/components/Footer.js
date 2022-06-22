@@ -99,7 +99,7 @@ function Footer() {
                             </a>
                         </div>
                         <div className="social-icon-link github">
-                            <a href="https://github.com/delrosariotup" target="_blank" rel="noreferrer noopener">
+                            <a href="https://github.com/delrosario-daniel" target="_blank" rel="noreferrer noopener">
                                 <i className="fab fa-github"></i>
                             </a>
                         </div>

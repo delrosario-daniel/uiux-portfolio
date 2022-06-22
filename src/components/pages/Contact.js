@@ -21,8 +21,8 @@ function Contact() {
                     </a>
                     <br></br>
                     <h1>Github:</h1>
-                    <a href="https://github.com/delrosariotup" target="_blank" rel="noreferrer noopener">
-                        <h1>https://github.com/delrosariotup</h1>
+                    <a href="https://github.com/delrosario-daniel" target="_blank" rel="noreferrer noopener">
+                        <h1>https://github.com/delrosario-daniel</h1>
                     </a>
                 </div> 
             </div>
