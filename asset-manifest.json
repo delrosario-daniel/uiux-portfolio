@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uiux-portfolio/static/css/main.27f84b1e.css",
+    "main.js": "/uiux-portfolio/static/js/main.a5be12be.js",
+    "index.html": "/uiux-portfolio/index.html",
+    "main.27f84b1e.css.map": "/uiux-portfolio/static/css/main.27f84b1e.css.map",
+    "main.a5be12be.js.map": "/uiux-portfolio/static/js/main.a5be12be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f84b1e.css",
+    "static/js/main.a5be12be.js"
+  ]
+}
