@@ -11,13 +11,13 @@ function Cards() {
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem 
-                        src='./images/SRMSWeb/srms-web-1.png'
+                        src='/images/SRMSWeb/srms-web-1.png'
                         text='Dr. Arcadio National High School: School Resource Management System (SRMS)'
                         label='Web Application'
                         path='/srms-web'
                     />
                     <CardItem 
-                        src='./images/SRMSMobile/srms-mobile-1.png'
+                        src='/images/SRMSMobile/srms-mobile-1.png'
                         text='Dr. Arcadio National High School: School Resource Management System (SRMS)'
                         label='Mobile'
                         path='/srms-mobile'
@@ -26,19 +26,19 @@ function Cards() {
 
                 <ul className="cards__items">
                     <CardItem 
-                        src='./images/NFTMarketplace/nft-marketplace-1.png'
+                        src='/images/NFTMarketplace/nft-marketplace-1.png'
                         text='NFT Marketplace Mobile'
                         label='Mobile'
                         path='/nft-marketplace'
                     />
                     <CardItem 
-                        src='./images/iBayanihan/iBayanihan-1.png'
+                        src='/images/iBayanihan/iBayanihan-1.png'
                         text='Developer Student Clubs Loyola: HackFest 2020 (iBayanihan App)'
                         label='Mobile'
                         path='/ibayanihan'
                     />
                     <CardItem 
-                        src='./images/FocusOptical/focus-optical-1.png'
+                        src='/images/FocusOptical/focus-optical-1.png'
                         text='Focus Optical Website'
                         label='Website'
                         path='/focus-optical'
