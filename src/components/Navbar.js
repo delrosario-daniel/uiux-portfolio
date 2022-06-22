@@ -28,7 +28,7 @@ function Navbar() {
         <>
             <nav className='navbar'>
                 <div className='navbar-container'>
-                    <Link to='/design-portfolio' className='navbar-logo' onClick={closeMobileMenu}>
+                    <Link to='/uiux-portfolio' className='navbar-logo' onClick={closeMobileMenu}>
                         DNL <i class="fa-solid fa-palette"></i>
                     </Link>
                 
@@ -37,7 +37,7 @@ function Navbar() {
                     </div>
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
-                            <Link to='/design-portfolio' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/uiux-portfolio' className='nav-links' onClick={closeMobileMenu}>
                                 Home
                             </Link>
                         </li>

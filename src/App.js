@@ -25,7 +25,7 @@ function App() {
         <Navbar/>
         <Routes>
           {/* <Route path='/' exact component={Home} /> */}
-          <Route path='/design-portfolio' element={<Home/>} />
+          <Route path='/uiux-portfolio' element={<Home/>} />
           <Route path='/contact' element={<Contact/>} />
           <Route path='/about' element={<About/>} />
 
